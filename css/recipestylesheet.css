@@ -52,6 +52,7 @@ hr{
     font-family: sans-serif;
     color: darkslategrey;
     font-size:20;
+    text-align: center;
 }
 
 .its{
@@ -59,6 +60,7 @@ hr{
     color: darkslategrey;
     font-size:20;
     line-height: 160%;
+    text-align: center;
 }
 
 h2{
@@ -69,6 +71,38 @@ h2{
 .steps{
     font-family: sans-serif;
     color: darkslategrey;
-    font-size:20;
+    font-size:25;
     line-height: 160%;
+    text-align: center;
+}
+
+.pic0{
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.pic{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.pic2{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.pic3{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.ad{
+    position: absolute;
+    bottom: 180;
+    left: 1700;
 }
