@@ -1,0 +1,74 @@
+body{
+    background-color: lightcyan;
+}
+
+.easy{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40;
+    color: darkslategrey;
+}
+
+
+.this{
+    font-family: sans-serif;
+    font-size: 20;
+    line-height: 160%;
+    color: darkslategrey;
+
+}
+
+
+.ingredients{
+    position: absolute;
+    left:520;
+    top:200;
+    font-family: sans-serif;
+    color: darkslategrey;
+    font-size:30
+    
+    
+}
+
+
+ol{
+    position: absolute;
+    left: 500;
+    top: 300;
+    width: 1000;
+    font-family: sans-serif;
+    font-size: 20;
+    color: darkslategrey;
+    
+}
+
+hr{
+    background-color: darkslategrey;
+    border-color: transparent;
+    
+}
+
+.how{
+    font-family: sans-serif;
+    color: darkslategrey;
+    font-size:20;
+}
+
+.its{
+    font-family: sans-serif;
+    color: darkslategrey;
+    font-size:20;
+    line-height: 160%;
+}
+
+h2{
+    color: darkslategrey;
+    font-family: sans-serif;
+}
+
+.steps{
+    font-family: sans-serif;
+    color: darkslategrey;
+    font-size:20;
+    line-height: 160%;
+}
